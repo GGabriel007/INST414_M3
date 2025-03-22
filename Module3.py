@@ -96,3 +96,6 @@ for target_name, target_details in target_movie_details.items():
     
     # Print table using tabulate
     print(tabulate(table_data, headers=["Movie Title", "Similarity Score"], tablefmt="grid"))
+
+
+
